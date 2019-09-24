@@ -1,0 +1,1 @@
+This is a very early days attempt at using Googles Cloud Vision to organise and keyword my 3d model assets.
